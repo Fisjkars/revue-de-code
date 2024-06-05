@@ -1,5 +1,7 @@
 # revue-de-code
 
+https://fisjkars.github.io/revue-de-code/
+
 I. Introduction de la revue de code. 
 	- Rappel sur les bonnes pratiques de codage : Versionning, Coding style, CI/CD, etc…
 	- Correction de bug fonctionnel/technique/performance.
